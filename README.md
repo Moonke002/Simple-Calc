@@ -51,3 +51,4 @@ http://localhost:5000
 ## Note
 
 This is a simple calculator application demonstrating basic web development with Flask. 
+*Frontend in progress, very rough draft uploaded for now*
